@@ -1,7 +1,13 @@
-### Hi there 👋
+### Hey there 👋
 
-<!--
-**Daniel2tio/Daniel2tio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Badges](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff)
+![Badges](https://img.shields.io/badge/-Javascript-F7DF1E?logo=javascript&logoColor=fff)
+![Badges](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=fff)
+![Badges](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=fff)
+![Badges](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=fff)
+![Badges](https://img.shields.io/badge/-Hadoop-66CCFF?logo=apachehadoop&logoColor=fff)
+
+
 
 Here are some ideas to get you started:
 
@@ -13,4 +19,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=daniel2tio&count_private=true&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DANIEL2TIO&show_icons=true&theme=radical)
+
+https://simpleicons.org/
