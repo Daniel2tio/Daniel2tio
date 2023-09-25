@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Any of my contacts listed
 - ⚡ Fun fact: Rust is my 2nd most used language but have not made any projects with it 🗿
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=daniel2tio&count_private=true&show_icons=true&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DANIEL2TIO&show_icons=true&theme=radical)
 
 https://simpleicons.org/
