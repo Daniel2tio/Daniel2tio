@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Any of my contacts listed
 - ⚡ Fun fact: Rust is my 2nd most used language but have not made any projects with it 🗿
 
-Here are my projects which you can access:
-- 🐜 [Ant Colony Optimization](https://github.com/Daniel2tio/ACO-Simulation)
-- 💉 [Flu Shot Learning](https://github.com/Daniel2tio/Data-Science-Flu-Shot-Learning)
+Here are some of my projects which you can access:
+🐜 [Ant Colony Optimization](https://github.com/Daniel2tio/ACO-Simulation)
+💉 [Flu Shot Learning](https://github.com/Daniel2tio/Data-Science-Flu-Shot-Learning)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DANIEL2TIO&show_icons=true&theme=radical)
 
