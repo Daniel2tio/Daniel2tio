@@ -22,6 +22,12 @@ Here are some of my projects which you can access:
 
 💉 [Flu Shot Learning](https://github.com/Daniel2tio/Data-Science-Flu-Shot-Learning)
 
+🤖 [ChatGPT VA](https://github.com/Daniel2tio/ChatGPT-VA)
+
+💬 [NLP Chatbot](https://github.com/Daniel2tio/NLP-Chatbot)
+
+👁️ [Classification & Segmentation CNN](https://github.com/Daniel2tio/Segment_Class_CNN)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DANIEL2TIO&show_icons=true&theme=radical)
 
 https://simpleicons.org/
