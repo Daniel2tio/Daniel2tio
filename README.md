@@ -7,9 +7,6 @@
 ![Badges](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=fff)
 ![Badges](https://img.shields.io/badge/-Hadoop-66CCFF?logo=apachehadoop&logoColor=fff)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on a GAN based project.
 - 🌱 I’m currently learning Mojo Programming.
 - 👯 I’m looking to collaborate on deep learning projects.
 - 🤔 I’m looking for help with Mojo projects.
