@@ -8,10 +8,10 @@
 ![Badges](https://img.shields.io/badge/-Hadoop-66CCFF?logo=apachehadoop&logoColor=fff)
 
 - 🌱 I’m currently learning Mojo Programming.
-- 👯 I’m looking to collaborate on deep learning projects.
-- 🤔 I’m looking for help with Mojo projects.
+- 👯 I’m looking to collaborate on computer vision projects.
+- 🤔 Would like to learn more on Agents.
 - 📫 How to reach me: Any of my contacts listed
-- ⚡ Fun fact: Rust is my 2nd most used language but have not made any projects with it 🗿
+- ⚡ Fun fact: 🗿
 
 Here are some of my projects which you can access:
 
