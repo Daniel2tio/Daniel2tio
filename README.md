@@ -1,15 +1,14 @@
 ### Hey there 👋
 
 ![Badges](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff)
-![Badges](https://img.shields.io/badge/-Javascript-F7DF1E?logo=javascript&logoColor=fff)
+![Badges](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=fff)
 ![Badges](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=fff)
 ![Badges](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=fff)
 ![Badges](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=fff)
 ![Badges](https://img.shields.io/badge/-Hadoop-66CCFF?logo=apachehadoop&logoColor=fff)
 
-- 🌱 I’m currently learning Mojo Programming.
-- 👯 I’m looking to collaborate on computer vision projects.
-- 🤔 Would like to learn more on Agents.
+- 🌱 I’m currently learning and refining my MLOps.
+- 👯 I’m looking for ideas on fun computer vision projects.
 - 📫 How to reach me: Any of my contacts listed
 - ⚡ Fun fact: 🗿
 
